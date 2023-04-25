@@ -77,7 +77,7 @@
                             </script>
 
                             <li class="nav-item">
-                                <a class="nav-link click" href="periodtracker.php">Peroid Tracking</a>
+                                <a class="nav-link click" href="period-tracker-gh-pages/index.html">Peroid Tracking</a>
                             </li>
 
                             <li class="nav-item">
