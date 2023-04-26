@@ -38,6 +38,11 @@ Run the index file in your local host.
 
 * ### Declaration of Previous Work
  webpage related to our project RED
+ 
+ ### Game Links
+ - Easy [https://www.roblox.com/games/13210792403/]
+ - Medium [https://www.roblox.com/games/13182450648/]
+ - Difficult [https://www.roblox.com/games/13170779400/]
 
 
 * ### What was accomplished in 24 hours
